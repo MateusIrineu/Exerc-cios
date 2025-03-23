@@ -1,0 +1,1 @@
+/*5. Verificar se um usuário pode votar*/
